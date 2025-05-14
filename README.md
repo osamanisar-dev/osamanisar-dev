@@ -30,8 +30,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osamanisar-dev&show_icons=true&theme=radical" alt="Osama's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamanisar-dev&theme=radical" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamanisar-dev&layout=compact&theme=radical" />
 </p>
 
