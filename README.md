@@ -28,11 +28,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-jet-76.vercel.app/api?username=osamanisar-dev&show_icons=true&theme=radical&card_width=450" alt="Osama's GitHub stats" />
+  <img src="https://github-readme-stats-seven-jet-76.vercel.app/api?username=osamanisar-dev&show_icons=true&theme=radical&border_radius=10&card_width=450" alt="Osama's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats-lovat-xi.vercel.app?user=osamanisar-dev&theme=radical&border_radius=10&card_width=450" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamanisar-dev&layout=compact&theme=radical&card_width=450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamanisar-dev&layout=compact&theme=radical&border_radius=10&card_width=450" />
 </p>
 
 ---
