@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Osama Nisar</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel%20Developer;VueJS%20Enthusiast;Full%20Stack%20Web%20Developer;Problem%20Solver&center=true&width=500&height=50" />
